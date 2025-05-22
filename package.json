@@ -1,0 +1,9 @@
+{
+  "urls": [
+    ["ST7735.py", "github:mcauser/MicroPython_ST7735/ST7735.py"],
+    ["bmp.py", "github:mcauser/MicroPython_ST7735/bmp.py"],
+    ["lcd_gfx.py", "github:mcauser/MicroPython_ST7735/lcd_gfx.py"]
+  ],
+  "version": "1.0.0",
+  "deps": []
+}
